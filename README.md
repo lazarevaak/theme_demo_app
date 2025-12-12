@@ -7,28 +7,7 @@
 **[Смотреть презентацию в Figma]([https://github.com/lazarevaak/KotoTinder/releases/download/v1.0.2/app-release.apk](https://www.figma.com/slides/oaZ4DyxBD7ZQgCTSCh7A3y/%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%22%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B8%D0%BB%D1%8F%D0%BC%D0%B8-%D0%B8-%D1%82%D0%B5%D0%BC%D0%B0%D0%BC%D0%B8-Flutter%22?node-id=1-133&t=xvOiv1dZdENBEqg5-1
 ))**
 
-## Структура проекта
-
-lib/
-
- ├─ main.dart
- 
- ├─ screens/
- 
- │    └─ home_screen.dart
- 
- ├─ theme/
- 
- │    ├─ app_colors.dart
- 
- │    ├─ app_text_styles.dart
- 
- │    ├─ light_theme.dart
- 
- │    ├─ dark_theme.dart
- 
- │    └─ theme_provider.dart
- 
+## Структура проекта 
 
 Что где находится:
 
